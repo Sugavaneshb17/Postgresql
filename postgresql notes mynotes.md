@@ -27,3 +27,7 @@ Command,Action
 
 \! clear, Clear the terminal screen.
 
+Running a sql file:
+
+<img width="1223" height="720" alt="image" src="https://github.com/user-attachments/assets/c80d4969-f49b-493b-8fa0-f305421277e3" />
+
